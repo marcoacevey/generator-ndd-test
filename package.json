@@ -1,13 +1,13 @@
 {
   "name": "generator-ndd-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "marcoacevey/generator-ndd-test",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Marco Aurélio Cevey",
+    "email": "marco.cevey@nddigital.com.br",
     "url": "https://github.com/marcoacevey"
   },
   "scripts": {
